@@ -1,0 +1,6 @@
+- Die gewünschte Funktionalität ist implementiert und wird über Beispielskripts demonstriert.
+- Alle committed examples sind funktionsfähig
+- Automatisierte tests sind implementiert und laufen ohne outcommenting durch
+- Code ist aufgeräumt und überflüssige Files wurden entfernt
+- Keine unnötigen Änderungen am bestehenden Code
+- Bei UI Implementierungen: Funktionalität wurde manuell aus User Perspektive getestet
